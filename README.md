@@ -1,1 +1,3 @@
-1030510000_BS436_WebProgramlama
+Öğrenci Numarası: 1030510000
+Öğrenci Adı: Ömür Şahin
+Ders Adı: BS436 Web Programlama

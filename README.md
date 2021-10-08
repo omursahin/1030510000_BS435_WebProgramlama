@@ -2,4 +2,4 @@
 
 Öğrenci Adı: Ömür Şahin
 
-Ders Adı: BS436 Web Programlama
+Ders Adı: BS435 Web Programlama
